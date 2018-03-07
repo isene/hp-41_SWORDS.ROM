@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XROM Title="SWORDS.ROM">
+  <Key Label="-ARENA" Kind="RPN"/>
+  <Entry i="24" j="2"/>
+  <Key Label="-CREATE" Kind="RPN"/>
+  <Entry i="24" j="4"/>
+  <Key Label="-FIGHT" Kind="RPN"/>
+  <Entry i="24" j="9"/>
+  <Key Label="-LEVEL" Kind="RPN"/>
+  <Entry i="24" j="3"/>
+  <Key Label="-NPC" Kind="RPN"/>
+  <Entry i="24" j="7"/>
+  <Key Label="-NSHOW" Kind="RPN"/>
+  <Entry i="24" j="8"/>
+  <Key Label="-SHOW" Kind="RPN"/>
+  <Entry i="24" j="6"/>
+  <Key Label="-SWORDS 1A" Kind="MCODE"/>
+  <Entry i="24" j="0"/>
+  <Key Label="-UPGRD" Kind="RPN"/>
+  <Entry i="24" j="5"/>
+  <Key Label="ABACK" Kind="MCODE"/>
+  <Entry i="24" j="13"/>
+  <Key Label="APRMT" Kind="MCODE"/>
+  <Entry i="24" j="15"/>
+  <Key Label="ARCLINT" Kind="MCODE"/>
+  <Entry i="24" j="16"/>
+  <Key Label="CLASP" Kind="MCODE"/>
+  <Entry i="24" j="17"/>
+  <Key Label="D6" Kind="RPN"/>
+  <Entry i="24" j="10"/>
+  <Key Label="KEYMENU" Kind="MCODE"/>
+  <Entry i="24" j="14"/>
+  <Key Label="O6" Kind="RPN"/>
+  <Entry i="24" j="11"/>
+  <Key Label="SWORDS" Kind="RPN"/>
+  <Entry i="24" j="1"/>
+  <Key Label="YNTEST" Kind="MCODE"/>
+  <Entry i="24" j="12"/>
+</XROM>
+
