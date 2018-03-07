@@ -64,7 +64,7 @@ An attack can result in a critical hit (whenever a 6 is rolled on the dice) or f
 
 The critical effects are:
 
-| Dice | Result       |		                    | Shows in display |
+| Dice | Result        		                    | Shows in display |
 | :--: | -------------------------------------- | ---------------- |
 |  1   | +1 to the attack roll                  | CRITICAL: +1     |
 |  2   | +2 to the attack roll                  | CRITICAL: +2     |
@@ -75,7 +75,7 @@ The critical effects are:
 
 The fumble effects are:
 
-| Dice | Result       |		                    | Shows in display |
+| Dice | Result        		                    | Shows in display |
 | :--: | -------------------------------------- | ---------------- |
 |  1   | -1 to the attack roll                  | FUMBLE: +1       |
 |  2   | -2 to the attack roll                  | FUMBLE: +2       |
