@@ -31,7 +31,7 @@ You need POWER at the level of the weapon you use (e.g. you need 2 in POWER to w
 
 The character's attacking offensive value is equal to SKILL plus the weapon's OFF modifier, while the defensive value is equal to SKILL plus the weapon's DEF value.
 
-![Alt text](https://www.technobuffalo.com/wp-content/uploads/2015/03/God-of-War-III-Remastered-9-1280x720.jpg?raw=true "Gladiator")
+![Alt text](https://www.technobuffalo.com/wp-content/uploads/2015/03/God-of-War-III-Remastered-9-1280x720.jpg?raw=true "Arena")
 
 Whenever you attack your opponent, a dice roll is added to your offensive value. Your opponent defend with his defensive value and adds a dice roll. If your attack total is higher than his defense total, you score a hit. In the same way, the NPC (Non-Playing Character, your opponent) attacks with his offensive value plus a dice roll to overcome your defensive value plus a dice roll.
 
@@ -103,5 +103,7 @@ PS: When you get a hang of it, drop me a line and tell me how far you've advance
 ## Credits
 
 This game is inspired by the combat system of the AMAR Role-Playing Game (http://d6gaming.org). A special thanks goes to all the people involved in developing that game to the high quality system that it has become after more than 30 years of development.
+
+![Alt text](http://d6gaming.org/images/thumb/a/af/Amar.png/431px-Amar.png?raw=true "AMAR RPG")
 
 Another thanks goes to Håkan Thørngren for his amazing NutStudio system for creating HP-41 modules. And as usual, thanks to all the MCODE gurus out there whose code I use and inspiration I take.
