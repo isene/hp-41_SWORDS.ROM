@@ -31,7 +31,7 @@ You need POWER at the level of the weapon you use (e.g. you need 2 in POWER to w
 
 The character's attacking offensive value is equal to SKILL plus the weapon's OFF modifier, while the defensive value is equal to SKILL plus the weapon's DEF value.
 
-![Alt text](http://www.ffxivinfo.com/images/disciplines/gladiator.gif?raw=true "Gladiator")
+![Alt text](https://s-media-cache-ak0.pinimg.com/originals/37/91/87/3791877fe79200f98f5f9eb724f764e7.jpg?raw=true "Gladiator")
 
 Whenever you attack your opponent, a dice roll is added to your offensive value. Your opponent defend with his defensive value and adds a dice roll. If your attack total is higher than his defense total, you score a hit. In the same way, the NPC (Non-Playing Character, your opponent) attacks with his offensive value plus a dice roll to overcome your defensive value plus a dice roll.
 
@@ -51,6 +51,8 @@ There are four levels of armor:
 |  3  | CHAIN    |  3  |
 
 The AP (Armor Points) is how much the armor reduce the damage scored.
+
+![Alt text](http://www.ffxivinfo.com/images/disciplines/gladiator.gif?raw=true "Gladiator")
 
 When you have created your PC, the calculator will display "ENTER ARENA..". It will then create your opponent (the NPC) and tell you what weapon and armor he has as well as some indication of his VIGOR and POWER. You will then be presented with the "fighting menu": "NPC PC O D N".
 
