@@ -31,7 +31,7 @@ You need POWER at the level of the weapon you use (e.g. you need 2 in POWER to w
 
 The character's attacking offensive value is equal to SKILL plus the weapon's OFF modifier, while the defensive value is equal to SKILL plus the weapon's DEF value.
 
-![Alt text](https://s-media-cache-ak0.pinimg.com/originals/37/91/87/3791877fe79200f98f5f9eb724f764e7.jpg?raw=true "Gladiator")
+![Alt text](http://s-media-cache-ak0.pinimg.com/originals/37/91/87/3791877fe79200f98f5f9eb724f764e7.jpg?raw=true "Gladiator")
 
 Whenever you attack your opponent, a dice roll is added to your offensive value. Your opponent defend with his defensive value and adds a dice roll. If your attack total is higher than his defense total, you score a hit. In the same way, the NPC (Non-Playing Character, your opponent) attacks with his offensive value plus a dice roll to overcome your defensive value plus a dice roll.
 
