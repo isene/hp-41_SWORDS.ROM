@@ -27,7 +27,11 @@ There are 5 levels of weapons available:
 |  3  | Sword & Shield |  SW&SH   | +1  | +2  | +1  |
 |  4  | Great axe      |  GRAXE   |  0  | +2  | +3  |
 
+You need POWER at the level of the weapon you use (e.g. you need 2 in POWER to wield a SPEAR).
+
 The character's attacking offensive value is equal to SKILL plus the weapon's OFF modifier, while the defensive value is equal to SKILL plus the weapon's DEF value.
+
+![Alt text](http://www.ffxivinfo.com/images/disciplines/gladiator.gif?raw=true "Gladiator")
 
 Whenever you attack your opponent, a dice roll is added to your offensive value. Your opponent defend with his defensive value and adds a dice roll. If your attack total is higher than his defense total, you score a hit. In the same way, the NPC (Non-Playing Character, your opponent) attacks with his offensive value plus a dice roll to overcome your defensive value plus a dice roll.
 
@@ -93,3 +97,9 @@ The PC's stats are saved after every fight (to an Extended Memory data file).
 Happy fighting. Go get'em tiger!
 
 PS: When you get a hang of it, drop me a line and tell me how far you've advanced with a PC (g@isene.com)
+
+## Credits
+
+This game is inspired by the combat system of the AMAR Role-Playing Game (http://d6gaming.org). A special thanks goes to all the people involved in developing that game to the high quality system that it has become after more than 30 years of development.
+
+Another thanks goes to Håkan Thørngren for his amazing NutStudio system for creating HP-41 modules. And as usual, thanks to all the MCODE gurus out there whose code I use and inspiration I take.
