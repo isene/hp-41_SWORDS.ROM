@@ -21,11 +21,11 @@ There are 5 levels of weapons available:
 
 | No. | Weapon         | Mnemonic | OFF | DEF | DAM |  
 | :-: | -------------- | :------: | :-: | :-: | :-: |
-|  0  | Unarmed        |  UNARM   | -2  | -2  | -2  |
-|  1  | 2*Knives       |  2*KNF   |  0  |  0  |  0  |
-|  2  | 2-handed Spear |  SPEAR   | +1  | +2  |  0  | 
-|  3  | Sword & Shield |  SW&SH   | +1  | +2  | +1  |
-|  4  | Great axe      |  GRAXE   |  0  | +2  | +3  |
+|  0  | Unarmed        |  UNARM   | -1  | -1  | -2  |
+|  1  | 2*Knives       |  2*KNF   |  0  |  0  | -1  |
+|  2  | 2-handed Spear |  SPEAR   | +1  | +1  |  0  | 
+|  3  | Sword & Shield |  SW&SH   | +1  | +2  |  0  |
+|  4  | Great axe      |  GRAXE   | +1  | +2  | +1  |
 
 You need POWER at the level of the weapon you use (e.g. you need 2 in POWER to wield a SPEAR).
 

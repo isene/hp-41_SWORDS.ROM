@@ -6,7 +6,7 @@
 
 Name   Size      Used    Checksum  Largest unallocated
 ------------------------------------------------------
-SWORDS 1000      0e06    005       01f9
+SWORDS 1000      0e4d    0a7       01b2
 
 
 ####################
@@ -21,8 +21,8 @@ HEADER 0000-0003  0004    SWORDS 1
 FAT    0004-0025  0022    SWORDS 9
 FATEND 0026-0027  0002    SWORDS 1
 Code   0028-0651  062a    SWORDS 1
-RPN    0652-0def  079e    SWORDS 8
-Code   0df0-0dfa  000b    SWORDS 1
+RPN    0652-0e36  07e5    SWORDS 8
+Code   0e37-0e41  000b    SWORDS 1
 TAIL   0ff4-0ffe  000b    SWORDS 1
 
 
@@ -34,18 +34,18 @@ TAIL   0ff4-0ffe  000b    SWORDS 1
 
 XROM   Address   Kind    Function
 -----------------------------------------
-24,00  8dfa      MCODE   -SWORDS 1A
-24,01  8bc1      RPN     "SWORDS"
-24,02  8be0      RPN     "-ARENA"
-24,03  8c5b      RPN     "-LEVEL"
-24,04  897e      RPN     "-CREATE"
-24,05  899a      RPN     "-UPGRD"
-24,06  8d94      RPN     "-SHOW"
-24,07  8d3d      RPN     "-NPC"
-24,08  8c98      RPN     "-NSHOW"
+24,00  8e41      MCODE   -SWORDS 1A
+24,01  8aeb      RPN     "SWORDS"
+24,02  8b22      RPN     "-ARENA"
+24,03  8b9d      RPN     "-LEVEL"
+24,04  8991      RPN     "-CREATE"
+24,05  89ad      RPN     "-UPGRD"
+24,06  8ddb      RPN     "-SHOW"
+24,07  8d84      RPN     "-NPC"
+24,08  8cdf      RPN     "-NSHOW"
 24,09  8654      RPN     "-FIGHT"
-24,10  8dc9      RPN     "D6"
-24,11  8ad7      RPN     "O6"
+24,10  8e10      RPN     "D6"
+24,11  8bf5      RPN     "O6"
 24,12  802e      MCODE   YNTEST
 24,13  8061      MCODE   ABACK
 24,14  833d      MCODE   KEYMENU
@@ -60,4 +60,4 @@ XROM   Address   Kind    Function
 #                        #
 ##########################
 
-Executable      (Text): 3590 words
+Executable      (Text): 3661 words
