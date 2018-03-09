@@ -62,7 +62,9 @@ When you have created your PC, the calculator will display "ENTER ARENA..". It w
 
 "O", "D" and "N" will initiate the next round of attacks. "N" means that you will fight normally without any tactical specialties, while "O" means you will fight extra offensively - adding 2 to your OFF value while subtracting 3 from your DEF value. "D" means you will fight extra defensively with 2 added to your DEF value while subtracting 3 from your OFF value.
 
-After pressing "O", "D" or "N", you will be asked if you will attack high or low that round ("ATTACK H:L"). Press "H" if you want to strike high and "L" if you want to strike low. It will then ask if you want to focus on defending high or low ("DEFEND H:L").
+After pressing "O", "D" or "N", you will be shown the stats for your PC, like this: "3,1 O:2 D:3 d:1" The first number before the comma is your PCs current VIGOR, the number after the comma is the ARMOR. The "O:2" shows that your offensive value is 2 and "D:3" shows your defensive value as 3,  while "d:1" means you do 1 in damage when you hit (plus a dice).
+
+Next you will be asked if you will attack high or low that round ("ATTACK H:L"). Press "H" if you want to strike high and "L" if you want to strike low. It will then ask if you want to focus on defending high or low ("DEFEND H:L").
 
 Then the round plays out.
 
