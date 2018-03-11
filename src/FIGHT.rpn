@@ -55,7 +55,7 @@
 052 -
 053 X=0?
 054 GTO 05              ; SW&SH
-055 1                   ; Dam (GRAXE)
+055 2                   ; Dam (GRAXE)
 056 2                   ; DEF
 057 1                   ; OFF
 058 GTO 06 
@@ -65,19 +65,19 @@
 062 -1                  ; OFF
 063 GTO 06
 064 LBL 11              ; 2*KNF
-065 -1                  ; Dam  
+065 0                   ; Dam  
 066 0                   ; DEF  
 067 0                   ; OFF  
 068 GTO 06 
 069 LBL 04              ; SPEAR
-070 0                   ; Dam  
+070 1                   ; Dam  
 071 1                   ; DEF  
 072 1                   ; OFF  
 073 GTO 06
 074 LBL 05              ; SW&SH
 075 1                   ; Dam  
 076 2                   ; DEF  
-077 0                   ; OFF  
+077 1                   ; OFF  
 078 LBL 06 
 079 ST+ IND 23
 080 RDN 

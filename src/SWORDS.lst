@@ -6,7 +6,7 @@
 
 Name   Size      Used    Checksum  Largest unallocated
 ------------------------------------------------------
-SWORDS 1000      0e51    339       01ae
+SWORDS 1000      0e51    17f       01ae
 
 
 ####################
@@ -35,17 +35,17 @@ TAIL   0ff4-0ffe  000b    SWORDS 1
 XROM   Address   Kind    Function
 -----------------------------------------
 24,00  8e45      MCODE   -SWORDS 1A
-24,01  8aef      RPN     "SWORDS"
-24,02  8b26      RPN     "-ARENA"
-24,03  8ba1      RPN     "-LEVEL"
-24,04  8995      RPN     "-CREATE"
-24,05  89b1      RPN     "-UPGRD"
+24,01  8aed      RPN     "SWORDS"
+24,02  8b24      RPN     "-ARENA"
+24,03  8b9f      RPN     "-LEVEL"
+24,04  8994      RPN     "-CREATE"
+24,05  89b0      RPN     "-UPGRD"
 24,06  8ddf      RPN     "-SHOW"
 24,07  8d88      RPN     "-NPC"
 24,08  8ce3      RPN     "-NSHOW"
 24,09  8654      RPN     "-FIGHT"
 24,10  8e14      RPN     "D6"
-24,11  8bf9      RPN     "O6"
+24,11  8bf7      RPN     "O6"
 24,12  802e      MCODE   YNTEST
 24,13  8061      MCODE   ABACK
 24,14  833d      MCODE   KEYMENU
