@@ -1,6 +1,6 @@
 ###############################################################################
 #                                                                             #
-# NutStudio RPN compiler for Nut, version 3.0.2         11/Mar/2018  15:36:50 #
+# NutStudio RPN compiler for Nut, version 3.0.2         11/Mar/2018  23:28:46 #
 #                                                                             #
 # Command Line: -l -I../module-descriptor CREATE.rpn                          #
 #                                                                             #
@@ -165,14 +165,14 @@
 00ed 126                 108 RCL 06
 00ee 145                 109 X>Y?
 00ef 1b70d0              110 GTO 06
-00f1 1fe055              111 "UNARM:-1,-1,-2"
+00f1 1fe055              111 "UNARM:-1,-1,-1"
 00f3 04e041
 00f5 05204d
 00f7 03a02d
 00f9 03102c
 00fb 02d031
 00fd 02c02d
-00ff 032
+00ff 031
 0100 111                 112 1
 0101 141                 113 -
 0102 167                 114 X=0?

@@ -60,7 +60,7 @@
 057 1                   ; OFF
 058 GTO 06 
 059 LBL 03              ; UNARM
-060 -2                  ; Dam
+060 -1                  ; Dam
 061 -1                  ; DEF
 062 -1                  ; OFF
 063 GTO 06

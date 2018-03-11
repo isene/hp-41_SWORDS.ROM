@@ -1,6 +1,6 @@
 ###############################################################################
 #                                                                             #
-# NutStudio RPN compiler for Nut, version 3.0.2         11/Mar/2018  15:36:50 #
+# NutStudio RPN compiler for Nut, version 3.0.2         11/Mar/2018  23:28:46 #
 #                                                                             #
 # Command Line: -l -I../module-descriptor FIGHT.rpn                           #
 #                                                                             #
@@ -83,7 +83,7 @@
 006b 111                  57 1
 006c 1b70a1               58 GTO 06
 006e 104                  59 LBL 03
-006f 11c012               60 -2
+006f 11c011               60 -1
 0071 000
 0072 11c011               61 -1
 0074 000
