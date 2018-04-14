@@ -109,3 +109,6 @@ This game is inspired by the combat system of the AMAR Role-Playing Game (http:/
 ![Alt text](http://d6gaming.org/images/thumb/a/af/Amar.png/431px-Amar.png?raw=true "AMAR RPG")
 
 Another thanks goes to Håkan Thørngren for his amazing NutStudio system for creating HP-41 modules. And as usual, thanks to all the MCODE gurus out there whose code I use and inspiration I take.
+
+## License
+This software is released into the Public Domain.
