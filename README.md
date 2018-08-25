@@ -1,5 +1,5 @@
 # hp-41_SWORDS.ROM
-A complete gladiator arena fighting game for the HP-41 calculator.
+A complete gladiator arena fighting game for the HP-41 calculator. 
 
 Fight your way up the ranks to become a legendary gladiator in a medieval arena.
 
