@@ -6,6 +6,7 @@
 [![Stay Amazing](https://img.shields.io/badge/Stay-Amazing-blue.svg)](https://isene.org)
 
 <img src="img/swords_rom_logo.svg" align="left" width="150" height="150" alt="SWORDS ROM Logo">
+<br clear="left"/>
 
 A complete gladiator arena fighting game for the HP-41 calculator. 
 
